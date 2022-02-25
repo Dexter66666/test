@@ -1,0 +1,35 @@
+# Netscape HTTP Cookie File
+
+# http://curl.haxx.se/rfc/cookie_spec.html
+
+# This is a generated file!  Do not edit.
+
+.youtube.com	TRUE	/	TRUE	1659437173	VISITOR_INFO1_LIVE	1ismWUUPowU
+
+.youtube.com	TRUE	/	TRUE	1645790094	GPS	1
+
+.youtube.com	TRUE	/	TRUE	0	YSC	3uS5TiIDEMI
+
+.youtube.com	TRUE	/	FALSE	1708860338	SID	Hgg163xlExqxNBw-MHDtLsQuuULgGBGa4Nqpua1J3AhEA1eNkdCzh8uSkA03gCb2n_eDIQ.
+
+.youtube.com	TRUE	/	TRUE	1708860338	__Secure-1PSID	Hgg163xlExqxNBw-MHDtLsQuuULgGBGa4Nqpua1J3AhEA1eNfq6tdUPT3aaLqLh-XfMeNw.
+
+.youtube.com	TRUE	/	TRUE	1708860338	__Secure-3PSID	Hgg163xlExqxNBw-MHDtLsQuuULgGBGa4Nqpua1J3AhEA1eNrldYgUrs5aa6riVznpLBew.
+
+.youtube.com	TRUE	/	FALSE	1708860338	HSID	ASbpxyNwMFPPwnY3R
+
+.youtube.com	TRUE	/	TRUE	1708860338	SSID	AGdaRQA4tVUxvv_kx
+
+.youtube.com	TRUE	/	FALSE	1708860338	APISID	0Y1c5sNdDnbigDiI/ATWqzkbCyztShBwMp
+
+.youtube.com	TRUE	/	TRUE	1708860338	SAPISID	2vfUpYEc7iqkjX-o/A_eb9QmFA8VYCT0-d
+
+.youtube.com	TRUE	/	TRUE	1708860338	__Secure-1PAPISID	2vfUpYEc7iqkjX-o/A_eb9QmFA8VYCT0-d
+
+.youtube.com	TRUE	/	TRUE	1708860338	__Secure-3PAPISID	2vfUpYEc7iqkjX-o/A_eb9QmFA8VYCT0-d
+
+.youtube.com	TRUE	/	TRUE	1708860339	LOGIN_INFO	AFmmF2swRQIhAPYcqix5DYSwQmjHrqkdDxdTr4vMGgTXi1WM8tPtFvckAiBIfkDvdx97wEPckKUSvs27fD3FVHB9z7yhoUd6GdS6Ew:QUQ3MjNmd29ONmRRcXBrakhBbkRzZXZSeFZ3cUFCTks5TGNrUWJKa3RDbzdzWkdNT2NOVS05WnFiTlo3NTA1eC1LS3BPZHA0Z0pmQzBPVzlac1pTblphQnhZT0lFa2RFRTFRbzAxWkxSTHd1MlRLMXhYbVdROW9OWnYzSGJMblpBTFJrOWllMTROZmxYSFpEWFFycS1sZE1UOGlBX2tHWTZn
+
+.youtube.com	TRUE	/	FALSE	1677324341	SIDCC	AJi4QfGeeY9Eh2kWUNj9V4-DOSOKmHHzBQduoyjS6R5Hds9VzYEl1ZWXajGvnTjnI6YOJSRKig
+
+.youtube.com	TRUE	/	TRUE	1677324341	__Secure-3PSIDCC	AJi4QfHErYvLTiXbzR8MWNjSA_OdiEm7e1cIJckQb-HcGOBbvIFCJqF2RyqMf6ow67hxageXsA
